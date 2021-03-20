@@ -117,3 +117,7 @@ GitHub.sublime-settings
 
 
 static
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
